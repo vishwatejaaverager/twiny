@@ -1,6 +1,6 @@
 # 👯 Twiny: AI-Powered Professional Communication Agent
 
-Twiny is an end-to-end mission-critical communication automation platform. It combines a high-performance Flutter mobile application with a robust Python/FastAPI backend to provide intelligent, context-aware automated responses across platforms like WhatsApp and Microsoft Teams.
+Privacy-first AI assistant that auto-generates professional replies to messages using on-device LLMs and real-time context from mobile notifications
 
 <p align="center">
   <a href="https://www.youtube.com/shorts/7d0IMfn06zM">
