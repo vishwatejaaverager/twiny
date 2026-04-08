@@ -2,7 +2,13 @@
 
 Twiny is an end-to-end mission-critical communication automation platform. It combines a high-performance Flutter mobile application with a robust Python/FastAPI backend to provide intelligent, context-aware automated responses across platforms like WhatsApp and Microsoft Teams.
 
-![Twiny Demo](https://raw.githubusercontent.com/vishwatejaaverager/twiny/main/demo/demo.mp4)
+<p align="center">
+  <a href="https://www.youtube.com/shorts/7d0IMfn06zM">
+    <img src="https://img.youtube.com/vi/7d0IMfn06zM/maxresdefault.jpg" alt="Twiny Demo Video" width="300">
+  </a>
+  <br/>
+  <b>🎬 Click to Watch The Demo</b>
+</p>
 
 ## 📁 Repository Structure
 
